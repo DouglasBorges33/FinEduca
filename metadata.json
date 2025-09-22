@@ -1,0 +1,7 @@
+{
+  "name": "FinEduca - Educação Financeira Divertida",
+  "description": "Um aplicativo web moderno e divertido para aprender sobre finanças, com foco em impostos, investimentos e orçamento. Inclui cursos, quizzes e acompanhamento de metas para tornar a educação financeira acessível a todos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
